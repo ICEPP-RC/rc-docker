@@ -1,0 +1,6 @@
+[wlcg]
+baseurl = http://linuxsoft.icepp.jp/wlcg/centos7/$basearch
+enabled = 1
+gpgcheck = 1
+gpgkey = http://linuxsoft.icepp.jp/wlcg/RPM-GPG-KEY-wlcg
+name = WLCG Repository
